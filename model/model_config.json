@@ -1,0 +1,7 @@
+{
+    "input_size": 10,
+    "hidden_size": 64,
+    "num_layers": 2,
+    "dropout": 0.2,
+    "seq_length": 7
+}
